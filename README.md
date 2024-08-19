@@ -12,3 +12,4 @@
 - ![CSS3](https://res.cloudinary.com/demo/image/fetch/w_60,h_30/https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
 - ![Django](https://res.cloudinary.com/demo/image/fetch/w_60,h_30/https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
 - ![SQL](https://res.cloudinary.com/demo/image/fetch/w_60,h_30/https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
