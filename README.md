@@ -5,8 +5,8 @@
 Hi, I'm Ahmed Elzaki, a software engineer passionate about programming and technology. I specialize in various languages and tools, including C++, Python, C#, and more. I enjoy working on projects involving game development, backend systems, and web design. Feel free to explore my repositories and connect with me!
 
 ## Languages I used across repositories 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaki&layout=compact&hide=html,css&theme=dark)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaki&layout=compact&hide=html,css&theme=default&card_width=300)
 ## Technology I Use
 
 
