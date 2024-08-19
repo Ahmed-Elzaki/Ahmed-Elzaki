@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Ahmed-Elzaki/Ahmed-Elzaki/blob/main/logo.png" alt="Ahmed Elzaki" width="100" />
 
-Hi, I'm Ahmed Elzaki, a software engineer passionate about programming and technology. I specialize in various languages and tools, including C++, Python, C#, and more. I enjoy working on projects involving game development, backend systems, and web design. Feel free to explore my repositories and connect with me!## # ## 
+Hi, I'm Ahmed Elzaki, a software engineer passionate about programming and technology. I specialize in various languages and tools, including C++, Python, C#, and more. I enjoy working on projects involving game development, backend systems, and web design. Feel free to explore my repositories and connect with me!
 
 ## Languages 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaki&layout=compact&hide=html,css&theme=radical)
