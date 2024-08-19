@@ -1,4 +1,8 @@
 ![Project Logo](https://github.com/Ahmedzaki246/repository-name/blob/main/images/logo.png)
+
+## Languages I Use
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaki246&layout=compact&hide=html,css&theme=radical)
 ## Technology I Use
 
 
