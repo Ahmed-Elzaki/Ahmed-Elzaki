@@ -25,7 +25,11 @@ Hi, I'm Ahmed Elzaki, a software engineer passionate about programming and techn
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## Ahmed's GitHub Stats
 
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaki&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Ahmed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaki&layout=compact&theme=dark)
 
 ## Portfolio
 
