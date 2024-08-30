@@ -8,10 +8,6 @@ Hi, I'm Ahmed Elzaki, a software engineer passionate about programming and techn
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elzaki&layout=compact&hide=html,css&theme=default&card_width=300)
 
-## Ahmed's GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elzaki&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
 
 ## Technology I Use
 
